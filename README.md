@@ -1,11 +1,11 @@
 # SpaceAssault
 
 # Nama Kelompok 
-Taufiqqurahman Andar
-Randhani Fataruba 
-Hidayat Abidi
-Abubakar Ismail 
-Muhammad Abdul Hafiedh Rettob
+-Taufiqqurahman Andar
+-Randhani Fataruba 
+-Hidayat Abidi
+-Abubakar Ismail 
+-Muhammad Abdul Hafiedh Rettob
 
 # Deskripsi Projek
 SpaceAssault adalah game arcade bertema pertempuran luar angkasa di mana pemain mengendalikan pesawat tempur yang berada di bagian bawah layar untuk melawan musuh yang datang dari atas, dengan latar belakang angkasa gelap yang dipenuhi bintang dan awan sehingga suasana permainan terasa seperti pertarungan di luar angkasa. Di dalam game ini ditampilkan beberapa informasi penting seperti score, level, jumlah nyawa (lives), serta bom (B-2) yang dapat digunakan pemain, di mana semakin banyak musuh yang berhasil dihancurkan maka skor dan level akan meningkat dan tingkat kesulitan permainan juga ikut bertambah. Tujuan utama dari SpaceAssault adalah bertahan selama mungkin dengan cara menghancurkan musuh dan menghindari serangan mereka, sehingga game ini menuntut refleks yang cepat, fokus, serta strategi sederhana agar pemain tidak cepat kehabisan nyawa.
